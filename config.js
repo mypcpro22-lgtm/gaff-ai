@@ -10,11 +10,11 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 212666666666;
 global.owner = [
-  ['212717457920', 'noureddine Ouafy', true],
-  ['', 'Owner 2', true],
+  ['201067684684', 'عمك محمد', true],
+  ['201025540749', 'عمك حازم', true],
 ];
 
-global.namebot = 'gaff ai';
+global.namebot = 'بوت عمامك';
 global.author = 'Noureddine ouafy';
 global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
 
